@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">الأسهم هوك</string>
+    <string name="action_example">العمل سبيل المثال</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="action_change_units">وحدات التغيير</string>
+    <string name="symbol_search">رمز البحث</string>
+    <string name="content_test">بحث عن الأوراق المالية رمز</string>
+    <string name="input_hint">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">اه اوه! هذا التطبيق يتطلب اتصال بالإنترنت</string>
+
+    <string name="no_data">المعلومات عن الأوراق المالية غير متوفرة</string>
+    <string name="no_data_suggestion">المعلومات عن الأوراق المالية غير متوفرة. تحقق من توفر الشبكة</string>
+    <string name="server_down">معلومات الأوراق المالية لا available.Stock خادم باستمرار</string>
+    <string name="server_error"></string>معلومات الأوراق المالية لا الخادم available.Stock بإرجاع خطأ
+    <string name="pref_server_status_key">server-status</string>
+    <string name="title_activity_detail">آخر التفاصيل</string>
+
+    <string name="title_widget_stock">Stock</string>
+</resources>
