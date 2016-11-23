@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="instructions">Press the button for a delicious joke! - Free version</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="joke_type">sports</string>
+
+</resources>

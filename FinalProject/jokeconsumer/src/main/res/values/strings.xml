@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JokeConsumer</string>
+    <string name="gradle_logo">Gradle Logo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Displaying Activity from android library</string>
+</resources>
