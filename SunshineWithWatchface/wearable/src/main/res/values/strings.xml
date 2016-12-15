@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wearable</string>
+    <string name="wear_name">Sunshine Digital Watch</string>
+    <string name="wear_am">AM</string>
+    <string name="wear_pm">PM</string>
+    <string name="extraMsg">message</string>
+</resources>
